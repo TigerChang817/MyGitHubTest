@@ -1,6 +1,5 @@
 i use visual studio code to commit
-<<<<<<< HEAD
 branch 87
-=======
 i am master
->>>>>>> master
+okok fine
+
